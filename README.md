@@ -1,0 +1,2 @@
+# Climate-Change-Greenhouse-Gas-Hypoxia-2026-Nature
+The repository contains the Python implementation for the Riverine Climate Feedback Domain (RCFD), helping the mechanistic quantification of global riverine greenhouse gas forcing under changing climate. It integrates global river data with Bayesian Monte Carlo architecture to resolve the "lateral-flux uncertainty" in the planetary carbon budget.
